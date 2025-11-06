@@ -1,17 +1,18 @@
 # Python cache files
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
+* .pyc
+* .pyo
+* .pyd
 
 # OS files
-.DS_Store
-Thumbs.db
+* .DS_Store
+* Thumbs.db
 
 # Excel files (optional)
-*.xlsx
-*.xls
+* .xlsx
+* .xls
 
 # Virtual environment (if you have one)
-venv/
-env/
+* venv/
+* env/
+
