@@ -1,8 +1,8 @@
 # Excel Automation Project
 
-This is a  Excel Automation project** using Python and `openpyxl`.  
+This is a  Excel Automation project using Python and `openpyxl`.  
 
-It demonstrates **CRUD operations** (Add, Update, Delete) on Excel files, along with **cell formatting**.  
+It demonstrates CRUD operations (Add, Update, Delete) on Excel files, along with cell formatting.  
 
 ---
 
@@ -26,4 +26,5 @@ Install dependencies:
 
 ```bash
 pip install openpyxl
+
 
